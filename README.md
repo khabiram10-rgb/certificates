@@ -5,7 +5,7 @@ Welcome to my technical certifications portfolio! This repository contains certi
 ## 🎓 Electronics & Embedded Systems
 
 - [IIT Madras – Advanced Electronics Manufacturing Training (99 Hours)](./IIT_Madras_Electronics_Manufacturing.jpeg)
-- [Microchip – Embedded System Developer Virtual Internship](./Embedded_System_Developer_Virtual_Internship.pdf)
+- [Microchip – Embedded System Developer Virtual Internship](./Embedded%20System%20Developer%20Virtual%20Internship.pdf)
 - [NIELIT – Embedded for Beginners](./NIELIT.pdf)
 - [NPTEL Certificate](./NPTEL_Certificate.pdf)
 - [Cadence – ATPG Flow with Modus DFT](./Cadence_Certificate.pdf)
